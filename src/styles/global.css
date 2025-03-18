@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.file-explorer {
+  @apply bg-gray-100 p-4 border rounded-lg shadow-md;
+}
+
+
